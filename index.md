@@ -1,23 +1,38 @@
-![IPDPS 2025 Logo](/assets/2025-logo-300px.jpg)
+![IPDPS 2026 Logo](/assets/2026-logo.png)
 
-# 30th International Workshop on High-Level Parallel Programming Models and Supportive Environments
+# 31st International Workshop on High-level Parallel Programming Models and Supportive Environments
+
+# Held in conjunction with IPDPS 2026, New Orleans, Louisiana USA
 
 # Overview
-The 30th HIPS workshop, to be held as a full-day meeting at the IPDPS 2025 conference in Milan, Lombardy, Italy, focuses on high-level programming of multiprocessors, compute clusters, and massively parallel machines. Like previous workshops in this series - established in 1996 - this event serves as a forum for research in the areas of parallel applications, language design, compilers, runtime systems, and programming tools. It provides a timely forum for scientists and engineers to present the latest ideas and findings in these rapidly changing fields. In our call for papers, we especially invite papers demonstrating innovative approaches in the areas of emerging programming models for large-scale parallel systems and many-core architectures. This year we will add to the list topics programming models and environments for the Edge-Cloud-HPC Continuum as well as the application of recent AI technologies in high-level programming models.
+The 31st HIPS workshop, proposed as a full-day meeting at the IEEE IPDPS 2026 conference in New Orleans, Louisiana, USA, focuses on high-level programming of
+multiprocessors, compute clusters, and massively
+parallel machines. Like previous workshops in
+this series, which was initially established in 1996,
+this event will serve as a forum for research in the
+areas of parallel applications, language design,
+compilers, runtime systems, and programming
+tools. It provides a timely forum for scientists and
+engineers to present the latest ideas and findings
+in these rapidly changing fields. In our call for
+papers, we especially encouraged innovative
+approaches in the areas of emerging
+programming models for large-scale parallel
+systems and many-core architectures.
 
 ---
 ---
 
-# News
-## Submission due extended to January 27, 2025, AoE
-## Camera ready due extended to March 13th, 2025 AoE
-## Workshop program is available below.
+<!-- # News
+## Submission due extended to January 27, 2026, AoE
+## Camera ready due extended to March 13th, 2026 AoE
+## Workshop program is available below. -->
 
 ---
 ---
 
 # Program
-June 3, 2025 \\
+June 3, 2026 \\
 09:00 - 17:35 CEST
 
 ## Welcome Remarks
@@ -29,7 +44,7 @@ June 3, 2025 \\
 **Michael Gerndt** (Technical University of Munich)
 
 ## Keynote
-09:30 - 10:30 CEST \\
+<!-- 09:30 - 10:30 CEST \\
 **Title: Reflections on 30 years of HPC programming: So many hardware advances, so little adoption of new languages**  \\
 **Bradford Chamberlain, Hewlett Packard Enterprise**
 
@@ -43,15 +58,15 @@ In this talk, I will give my perspective on the past 30 years of HPC programming
 Biography: \\
 Brad Chamberlain is a Distinguished Technologist at Hewlett Packard Enterprise (formerly Cray Inc.) who has spent his career focused on productivity for users of high-performance computing (HPC) systems, particularly through the design and development of the Chapel parallel programming language ([https://chapel-lang.org](https://chapel-lang.org)) as well as contributions to the Arkouda library framework for Python ([https://arkouda-www.github.io/](https://arkouda-www.github.io/)).  He received his Ph.D. in Computer Science & Engineering from the University of Washington in 2001, where he focused on the ZPL data-parallel array language; and he remains associated with the department as an affiliate professor of the Paul G. Allen School.  Brad is a staunch advocate for the importance of better parallel programming languages, models, and tools, particularly for HPC programmers.  He is honored to have the opportunity to speak at HIPS this year, as it’s been an important workshop during his career, serving as the venue for the original Chapel paper and a foundational ZPL paper, among others.
 
-<img src="./assets/Brad-LinuxCon.jpg" style="display: block; margin: 0 auto" width="50%"/>
+<img src="./assets/Brad-LinuxCon.jpg" style="display: block; margin: 0 auto" width="50%"/> -->
 
 ## Coffee Break
-10:30 - 11:00 CEST
+<!-- 10:30 - 11:00 CEST -->
 
 ## Paper Session One
-10:30 - 12:30 CEST
+<!-- 10:30 - 12:30 CEST -->
 
-**Serverless IoT Framework**\\
+<!-- **Serverless IoT Framework**\\
 **Isaac Nunez**
 
 **Advances in Semantic Patching for HPC-oriented Refactorings with Coccinelle**\\
@@ -76,15 +91,15 @@ Raneem Abu-Yosef, **Bokyeong Yoon**, Martin Kong
 **Aaron Welch**, Oscar Hernandez, Stephen Poole, Wendy Poole
 
 **Data Transfer Schemes in the High-Level Communication Library LAIK**\\
-Josef Weidendorfer, Lukas Neef, Robert Hubinger, **Amir Raoofy**
+Josef Weidendorfer, Lukas Neef, Robert Hubinger, **Amir Raoofy** -->
 
 ## Coffee Break
-16:00 - 16:30 CEST
+<!-- 16:00 - 16:30 CEST -->
 
 ## Paper Session Three
-16:30 - 17:30 CEST
+<!-- 16:30 - 17:30 CEST -->
 
-**SYCL for HPC: Adapting to Diverse CPU Architecture**\\
+<!-- **SYCL for HPC: Adapting to Diverse CPU Architecture**\\
 **Ashish Bisht**, Aniket Garade, Deepika H. V., Haribabu P., S. A. Kumar, S. D. Sudarsan
 
 **LibraryX-ASIC: A First Look**\\
@@ -92,47 +107,53 @@ Sanil Rao, **Larry Tang**, Franz Franchetti
 
 ## Closing Remarks
 17:30 - 17:35 PDT \\
-**Michel Gerndt** (Technical University of Munich)
+**Michel Gerndt** (Technical University of Munich) -->
 
 ---
 ---
 
 # Registration
-Attendance at this workshop is part of the registration for IPDPS 2025. See [here](http://www.ipdps.org/ipdps2025/2025-registration.html) to register.
+Attendance at this workshop is part of the registration for IPDPS 2026. See 
+(Coming soon)
+<!-- [here](http://www.ipdps.org/ipdps2026/2026-registration.html)  -->
+to register.
 
 Note: at least one author of each paper must be registered for the symposium by March 31st in order for the paper to be published in the proceedings. It must be a full registration unless the sole author of the paper is a student.
 
 # Topics of Interest
-Topics of interest to the HIPS workshop include but are not limited to:
--  High-level and domain-specific programming systems
--  Language/compiler support for AI/ML and Cybersecurity/Privacy (e.g., ML-based auto-tuning)
--  Application of Large Language Models in high-level programming environments
--  Higher-level programming support for quantum computing/quantum simulation
--  Programming Models and Tools for the	Edge-Cloud-HPC Continuum
--  Task-based programming systems
--  (Scalable) programming tools and tools for power & performance analysis, modeling, monitoring and debugging, and core correctness
--  Compiler analysis and optimization techniques
--  OS and architectural support for parallel programming and debugging
--  Software and system support for extreme scalability including fault tolerance and power-aware HPC
--  Programming environments for	heterogeneous multicore systems and	accelerators such as GPUs and FPGAs
--  Solutions for programming paradigms for GPUs from different hardware vendors
--  Dynamism in applications and system resources
--  Performance portability
+The main focus areas for this workshop may include, but are not limited to:
+- High-level and domain-specific programming systems
+- Language/compiler support for AI/ML and Cybersecurity/Privacy (e.g., ML-based auto- tuning)
+- Application of Large Language Models in high-level programming environments
+- Higher-level programming support for quantum computing/quantum simulation
+- Programming Models and Tools for the Edge-Cloud-HPC Continuum
+- (Scalable) programming tools and tools for power & performance analysis, modeling,monitoring and debugging, and core correctness
+- Compiler analysis and optimization techniques
+- OS and architectural support for parallel programming and debugging
+- Software and system support for extreme scalability including fault tolerance and power-aware HPC
+- Programming environments for heterogeneous multicore systems and accelerators such as GPUs and FPGAs
+- Solutions for programming paradigms for GPUs from different hardware vendors
+- Performance portability
 - Efforts for improving the sustainability of scientific software
--  Languages and runtime support for multi-science/coupled codes, including but	not limited to ensemble computing and uncertainty quantification
--  New programming languages and constructs	for exploiting parallelism and locality
-
+- Languages and runtime support for multi-science/coupled codes, including but not limited to ensemble computing and uncertainty quantification
+- Static and dynamic analysis for bug detection of parallel and distributed programs.
 ---
 ---
 
 # Important Deadlines
 
 
-Submission due date: <strike>January 17 2025</strike> January 27 2025 (extended), Anywhere on Earth (AoE)
+Submission due date: Early January 2026
+<!-- </strike> January 27 2026 (extended), Anywhere on Earth (AoE) -->
 
-Author notification: February 21st, 2025 AoE
+<!-- Author notification: February 21st, 2026 AoE -->
+Author notification: Mid February 2026
 
-Camera-ready papers: <strike>March 6th, 2025 AoE</strike> March 13th, 2025 AoE
+<!-- Camera-ready papers: <strike>March 6th, 2026 AoE</strike> March 13th, 2026 AoE -->
+
+Camera-ready papers: End of February 2026
+(once approved, dates can/will be adjusted
+based on IPDPS schedules)
 
 ---
 ---
@@ -152,11 +173,11 @@ opportunity to give a short presentation during the workshop.
 
 All submissions should be formatted according to the IPDPS paper style (IEEE conference style, single-blind).
 
-Please submit papers through [the IPDPS-HIPS Linklings site](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2025)
+Please submit papers through [the IPDPS-HIPS Linklings site](https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=HIPSWorkshopFullSubmission&site=ipdps2026)
 
-[HIPS 2025 Call for Papers](./HIPS25_CFP.txt)
+[HIPS 2026 Call for Papers] (Coming soon)
 
-[IPDPS 2025 Call for Papers](http://www.ipdps.org/ipdps2025/2025-call-for-papers.html)
+[IPDPS 2026 Call for Papers] (Coming soon")
 
 ---
 ---
@@ -174,25 +195,36 @@ Any paper that is not presented at the conference will not be included in IEEE X
 # Committees
 
 ## Workshop Co-chairs
-- Michael Gerndt, Technical University of Munich, Munich, Germany (gerndt.in.tum.de)
-- Amir Raoofy, Leibniz Supercomputing Centre, Munich, Germany (amir.raoofy@tum.de)
+- Martin Kong The Ohio State University, Columbus, Ohio, USA (moreno.244@osu.edu)
+    Related organization experience: General Chair of
+    Compiler Construction 2026; Artifact Evaluation
+    Chair of Compiler Construction 2024 & 2022;
+    Member of program committees such as CGO’25,
+    SC’23, PPoPP’24; Workshops and Tutorials Chair -
+    CGO’24.
+- Nikela Papadopoulou, University of Glasgow (Nikela.Papadopoulou@glasgow.ac.uk)
+    Related organization experience: Chair of AshES
+    Workshop at IPDPS (2023, 2024, 2025); Proceedings
+    Chair of FPL 2023; Member of program committees
+    such as IEEE CLUSTER’25, EuroPar’25, SC’25
+    workshops.
 
 
 ## Steering Committee
-- Rudolf Eigenmann, University of Delaware, USA
+<!-- - Rudolf Eigenmann, University of Delaware, USA
 - Michael Gerndt, Technische Universität München, Germany
 - Frank Mueller, North Carolina State University, USA
-- Martin Schulz, Technische Universität München, Germany
+- Martin Schulz, Technische Universität München, Germany -->
 
 ## Program Committee
-- Ahmad Taraf, TU Darmstadt, Germany
-- Andreas Wilhelm, CQSE GmbH, Germany
-- Balazs Gerofi, Intel, USA
-- Barton Miller, University of Wisconsin, USA
-- Bernd Mohr, FZ Jülich, Germany
-- Christian Terboven, RWTH Aachen University, Germany
-- Giorgis Georgakoudis, Lawrence Livermore National Laboratory, USA
-- James Lin, Shanghai Jiao Tong University, China
+- Kirshanthan Sundararajah, Virginia Tech., USA
+- Doru Popovici, Lawrence Berkeley National Lab., USA
+- Akihiro Ayashi, Georgia Tech, USA
+- Jun Shirako, Georgia Tech, USA
+- Richard Veras, University of Oklahoma, USA
+- Malith Jayaweera, AWS., USA
+- Tiago Cogumbreiro, University of Massachusets, Boston, USA
+<!-- - James Lin, Shanghai Jiao Tong University, China
 - Josef Weidendorfer, Leibniz Supercomputing Centre, Munich, Germany
 - Michael Philippsen, Friedrich-Alexander University Erlangen-Nürnberg , Germany
 - Miwako Tsuji, RIKEN Center for Computational Science, Japan
@@ -203,7 +235,7 @@ Any paper that is not presented at the conference will not be included in IEEE X
 - Shajulin Benedict, IIIT Kottayam, India
 - Siegfried Benkner, Universität Wien, Austria
 - Thomas Fahringer, University of Innsbruck, Austria
-- Tomohiro Ueno, RIKEN Center for Computational Science, Japan
+- Tomohiro Ueno, RIKEN Center for Computational Science, Japan -->
 
 [//]: # (William Moses, Massachusetts Institute of Technology, USA)
 [//]: # (Jeffrey Young, Georgia Institute of Technology, USA)
@@ -218,6 +250,8 @@ Any paper that is not presented at the conference will not be included in IEEE X
 
 | Workshop                                                                       | Date            | Location                            |
 |--------------------------------------------------------------------------------|-----------------|-------------------------------------|
+| [30th HIPS 2025](https://hips2025.github.io)       | 
+June 3, 2025    | Milan, Italy
 | [29th HIPS 2024](https://hips2024.github.io/)                                  | May 31st 2023   | San Francisco, California USA       |
 | [28th HIPS 2023](https://hips2023.github.io/)                                  | May 15th 2023   | St. Petersburg, Florida, USA        |
 | [27th HIPS 2022](https://hips2022.github.io/)                                  | May 30th 2022   | Virtual                             |
