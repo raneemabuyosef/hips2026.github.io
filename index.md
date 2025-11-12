@@ -101,9 +101,9 @@ Sanil Rao, **Larry Tang**, Franz Franchetti
 
 # Registration
 Attendance at this workshop is part of the registration for IPDPS 2026. See 
-(Coming soon)
+(Coming soon) to register.
 <!-- [here](http://www.ipdps.org/ipdps2026/2026-registration.html)  -->
-to register.
+
 
 <!-- Note: at least one author of each paper must be registered for the symposium by March 31st in order for the paper to be published in the proceedings. It must be a full registration unless the sole author of the paper is a student. -->
 
@@ -198,10 +198,10 @@ Any paper that is not presented at the conference will not be included in IEEE X
 
 ## Steering Committee
 (Coming soon)
-<!-- - Rudolf Eigenmann, University of Delaware, USA
-- Michael Gerndt, Technische Universität München, Germany
-- Frank Mueller, North Carolina State University, USA
-- Martin Schulz, Technische Universität München, Germany -->
+<!-- Rudolf Eigenmann, University of Delaware, USA
+ Michael Gerndt, Technische Universität München, Germany
+Frank Mueller, North Carolina State University, USA
+Martin Schulz, Technische Universität München, Germany -->
 
 ## Program Committee
 - Kirshanthan Sundararajah, Virginia Tech., USA
