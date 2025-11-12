@@ -19,7 +19,7 @@ programming models for large-scale parallel
 systems and many-core architectures.
 
 ---
----
+<!-- --- -->
 
 <!-- # News
 ## Submission due extended to January 27, 2026, AoE
@@ -27,7 +27,7 @@ systems and many-core architectures.
 ## Workshop program is available below. -->
 
 ---
----
+<!-- --- -->
 
 # Program
 <!-- June 3, 2026 \\
@@ -38,8 +38,6 @@ systems and many-core architectures.
 <!-- 09:00 - 09:05 CEST \\
 **Michael Gerndt** (Technical University of Munich) -->
 
-## Celebrating Three Decades of HIPS
-(Coming Soon)
 <!-- 09:05 - 09:30 CEST \\
 **Michael Gerndt** (Technical University of Munich) -->
 
@@ -59,7 +57,7 @@ In this talk, I will give my perspective on the past 30 years of HPC programming
 Biography: \\
 Brad Chamberlain is a Distinguished Technologist at Hewlett Packard Enterprise (formerly Cray Inc.) who has spent his career focused on productivity for users of high-performance computing (HPC) systems, particularly through the design and development of the Chapel parallel programming language ([https://chapel-lang.org](https://chapel-lang.org)) as well as contributions to the Arkouda library framework for Python ([https://arkouda-www.github.io/](https://arkouda-www.github.io/)).  He received his Ph.D. in Computer Science & Engineering from the University of Washington in 2001, where he focused on the ZPL data-parallel array language; and he remains associated with the department as an affiliate professor of the Paul G. Allen School.  Brad is a staunch advocate for the importance of better parallel programming languages, models, and tools, particularly for HPC programmers.  He is honored to have the opportunity to speak at HIPS this year, as it’s been an important workshop during his career, serving as the venue for the original Chapel paper and a foundational ZPL paper, among others. -->
 
-<!-- <img src="./assets/Brad-LinuxCon.jpg" style="display: block; margin: 0 auto" width="50%"/> --> -->
+<!-- <img src="./assets/Brad-LinuxCon.jpg" style="display: block; margin: 0 auto" width="50%"/> --> 
 
 <!-- ## Coffee Break -->
 <!-- (Coming Soon) -->
@@ -157,7 +155,7 @@ Camera-ready papers: End of February 2026
 <!-- (once approved, dates can/will be adjusted based on IPDPS schedules) -->
 
 ---
----
+<!-- --- -->
 
 # Submission
 Authors are invited to submit original papers in two separate tracks:
@@ -181,7 +179,7 @@ All submissions should be formatted according to the IPDPS paper style (IEEE con
 [IPDPS 2026 Call for Papers] (Coming soon")
 
 ---
----
+<!-- --- -->
 
 # Proceedings
 
@@ -191,7 +189,7 @@ Presentation of an accepted paper at the conference is a requirement of publicat
 Any paper that is not presented at the conference will not be included in IEEE Xplore.
 
 ---
----
+<!-- --- -->
 
 # Committees
 
@@ -245,7 +243,7 @@ Any paper that is not presented at the conference will not be included in IEEE X
 [//]: # "Alexander Pletzer, National Institute of Water and Atmospheric Research (NIWA), New Zealand"
 
 ---
----
+<!-- --- -->
 
 # History
 
