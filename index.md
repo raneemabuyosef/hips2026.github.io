@@ -163,7 +163,7 @@ All submissions should be formatted according to the IPDPS paper style (IEEE con
 
 [HIPS 2026 Call for Papers] (Coming soon)
 
-[IPDPS 2026 Call for Papers] (Coming soon")
+[IPDPS 2026 Call for Papers] (Coming soon)
 
 ---
 <!-- --- -->
